@@ -1,0 +1,106 @@
+A: it might be the main course or something </s>
+B: say honey what the hell is wrong with you there is no cockroach in my salad </s>
+A: laugh breath they are like that is the best part you know laugh </s>
+B: laugh eh laugh breath so what do you do at university of penn </s>
+A: uh i am actually ah i am a grad student well i was a grad student now i am a part time student </s>
+B: oh yeah </s>
+A: yeah i came here </s>
+B: how long do you g </s>
+A: i have been here for um four years now </s>
+B: how long until you get your uh degree </s>
+A: five well that is the thing right now i am not in the program </s>
+B: okay </s>
+A: so that is why i say i am not really a grad student anymore i i was in a program for a year </s>
+B: mhm </s>
+A: and i decided i did not like it </s>
+B: uh-huh </s>
+A: so laugh so i dropped out i got a part time job working as a programmer and uh </s>
+B: what were you studying </s>
+A: uh say it again </s>
+B: what were you studying </s>
+A: french lit laugh </s>
+B: oh god well i can understand that that is breath i mean as a graduate student i guess you can only look forward to a teaching position with that </s>
+A: yeah i it did not not really i was not really thinking about that when i applied laugh </s>
+B: yeah uh i was the same way i went for secondary ed english and found when i got to college that i really was not going to go that way and </s>
+A: yeah this is yeah yeah exactly </s>
+B: and i took time off and never went back so hopefully you will not do that </s>
+A: really well i figure if i am at least you know every once er not every once in a while but every semester trying to oh basically what i have been doing is </s>
+B: mhm </s>
+A: you know taking classes and trying to figure out what i do want to do and what is going to be </s>
+B: sure </s>
+A: practical and </s>
+B: well what is your uh bachelor's degree in </s>
+A: french </s>
+B: okay </s>
+A: in french but uh i have a fair amount of uh computer experience actually </s>
+B: sure </s>
+A: programmer experience so i have kind of been going going in that route a little bit more f concentrating on that a little bit </s>
+B: well there is certainly going to be financial security in it but uh </s>
+A: yeah </s>
+B: it is funny somebody going from an engle or rather a language background into programming </s>
+A: yeah yeah it is definitely different when i was in when i was in college i did both uh i did not you know i took them </s>
+B: do you like programming </s>
+A: yeah i do actually um </s>
+B: do you how how long have you been doing that </s>
+A: for about i would say about six years </s>
+B: oh well </s>
+A: when i when i when i was in college i was we were working on a on the vas you know on vms and i was thinking </s>
+B: uh-huh laugh yeah </s>
+A: and i you know i took less i took classes there and then when i got out you know um i did not do anything that first year but then as i was taking my french classes i found myself spending more and more time you know </s>
+B: yeah </s>
+A: thinking about you know doing something else </s>
+B: breath that is what happened to me too i i ended up d pen spending more time painting than uh writing and </s>
+A: really yeah </s>
+B: and i ended up uh switching to art and then i just dropped out all together because of financial reasons but breath n and i never did make it back and i i was not going to make money at it either unless i became a school teacher </s>
+A: yeah yeah right </s>
+B: you know and it was for s </s>
+A: nowadays you nowadays you good the te school teachers are in pretty high demand i guess </s>
+B: well yeah but the problem is i mean i do not if i would want to teach at a public school now unless it was a college level so </s>
+A: yeah </s>
+B: i kind of i kind of left myself not sure where i wanted to go kind of like where you are saying </s>
+A: yeah right </s>
+B: look but but i kind of ended up getting into computers too because i came into a little bit of money and bought one and then before i knew it it kind of became my life so </s>
+A: really yeah laugh it can sort of take over </s>
+B: you know they are all consuming you know they do they they take over </s>
+A: laugh i guess there is something that is sort of like uh you know a real uh a real intricate you know thing you know and it is always there is always a lot of </s>
+B: mhm </s>
+A: a lot of interesting things to do with them so yeah </s>
+B: uh exactly the they are only limited by your imagination </s>
+A: right exactly exactly </s>
+B: really a and your and your pocketbook </s>
+A: yeah laugh and that too </s>
+B: you know that has that has been a problem for me i mean it is </s>
+A: yeah </s>
+B: i do a lot of graphics as i said from an art background and uh that is </s>
+A: yeah </s>
+B: pretty expensive </s>
+A: yeah right </s>
+B: yeah </s>
+A: that is what my my brother does actually and he uh he uses this pro this programming this program called uh brice </s>
+B: yeah i have that it is a wonderful program </s>
+A: brice studio yeah he was showing me some of the things he did with that cause he was really into doing animation </s>
+B: oh it is amazing </s>
+A: and yeah it was pretty neat i was pretty impressed with the stuff that he had done </s>
+B: and the amazing thing about it is it is one of the cheaper programs on the market and considering what it can do it is it is uh it is very high end for the price it is amazing </s>
+A: really </s>
+B: oh yeah </s>
+A: i did i did not know how much it cost </s>
+B: uh three d programs run in uh two three thousand dollar range and this program is under two hundred dollars </s>
+A: but gee whiz </s>
+B: yeah </s>
+A: yeah </s>
+B: so it it is pretty amazing </s>
+A: yeah i have played around with uh pov ray a little bit you know </s>
+B: uh-huh </s>
+A: um and uh which is i guess well you can do sort of a similar thing you can you know render lots of images and then lace them together with animation </s>
+B: r yeah rate tracing exactly </s>
+A: right exactly i guess it is an older you know it is sort of an older ah i do not know an older technique or something but </s>
+B: sure </s>
+A: but um yeah it is pretty neat </s>
+B: amazing photo realism from ah wire frames it is amazing what you can come up with and then be done with it and think oh my god it is not really a photograph but it looks like it </s>
+A: ri laugh exactly breath </s>
+B: so what kind of programming do you do </s>
+A: ah mostly uh pearl and some c </s>
+B: uh-huh </s>
+A: i do some uh you know interface design </s>
+B: a are you interested in web development </s>

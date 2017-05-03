@@ -1,0 +1,334 @@
+# sw_40251.txt
+
+2.01 2.49 A: hello.
+
+2.76 3.51 B: hello.
+
+4.02 4.44 A: hello.
+
+4.73 5.22 B: hi.
+
+5.63 6.05 A: hi
+
+6.45 8.40 B: hi this is %ah ^Jim ^Miller. how are you doing?
+
+8.62 10.23 A: good how are you? this is ^Amy ^Davis
+
+10.74 11.68 B: hi how are you ^Amy?
+
+11.62 12.37 A: good.
+
+12.47 13.54 B: ^Amy do you work for ^Omnipoint?
+
+13.72 14.42 A: yes i do.
+
+14.57 16.23 B: i thought i %ah recognized your voice.
+
+16.23 17.73 B: i %ah i also work for ^Omnipoint.
+
+17.87 18.69 A: %oh do you really?
+
+18.86 19.39 B: i do.
+
+19.07 20.09 A: what office do you work in?
+
+20.19 21.68 B: {breath} %ah i am in
+
+21.68 24.62 B: ^Cedar ^Hills actually now i think we %ah actually used to wor- %ah we used 
+
+23.54 25.41 A: wait a second, we used to bowl together.
+
+24.71 27.26 B: {breath} we used to bowl together exactly yes. {laugh}
+
+25.99 27.23 A: {laugh} 
+
+27.30 31.05 B: {breath} {sneeze} {breath} i guess we {breath} how you doing? i guess we should get to the %ah
+
+28.31 28.76 A: {breath}
+
+29.77 30.34 A: [distortion] good.
+
+31.05 33.89 B: {breath} to that to that topic yeah. {laugh} 
+
+31.41 32.18 A: question
+
+32.92 34.00 A: {laugh} okay
+
+34.11 34.77 A: {lipsmack} {breath} 
+
+34.11 36.83 B: so who would you %ah who would you like to be? {breath}
+
+36.42 37.12 A: %um
+
+38.09 39.50 A: i do not know, probably
+
+39.92 41.40 A: probably ^Julia ^Roberts
+
+41.74 43.31 A: probably a movie star ((to see))
+
+42.81 43.68 B: and why is that?
+
+44.15 47.06 A: to see what a day you know in their life would be like just because they are so
+
+47.14 49.98 A: you know popular and they are on ~TV and you know always
+
+50.18 51.39 A: going places and
+
+51.87 53.66 A: you know formal events and so forth.
+
+51.97 54.86 B: [distortion] such such as in %ah a
+
+54.86 56.90 B: ^Pretty ^Woman kind of role with %ah ^Richard ^Gere?
+
+56.98 57.65 A: %um
+
+58.59 60.71 A: i do not i think i like ^Knotting ^Hill better.
+
+61.14 62.78 B: okay i actually have not have not 
+
+61.94 62.71 A: {laugh}
+
+62.78 64.32 B: seen that %ah that movie i i 
+
+64.39 66.55 B: {breath} i saw a %ah a clip
+
+66.55 68.23 B: of that but i have never i have not seen the movie.
+
+68.63 70.91 A: yeah it is actually a pretty new movie it is out with ^Hugh ^Grant.
+
+71.19 71.75 B: right.
+
+72.09 72.80 B: yeah.
+
+72.95 73.78 B: so that is it?
+
+73.15 74.65 A: so who would you trade places with?
+
+74.91 77.03 B: {lipsmack} %um i i think i would like
+
+77.02 78.28 B: to be %um
+
+78.27 80.45 B: {lipsmack} %eh somebody i actually %ah i would like
+
+80.45 82.33 B: to be the president, (( )) t- to %um
+
+81.99 82.56 A: really?
+
+82.33 83.81 B: {breath} yeah i i have
+
+84.10 87.19 B: (( )) i have been watching %ah the the show called the ^West ^Wing
+
+87.38 89.20 A: okay i have seen it a few times.
+
+87.48 88.81 B: %um recently {breath}
+
+89.23 90.99 B: %eh and %um i do not i just
+
+90.99 92.83 B: just the whole the {breath}
+
+92.83 94.60 B: %ah i do not know if it is a if it is a power trip
+
+94.60 96.65 B: kind of thing or what it is but just %ah
+
+96.78 98.83 B: just the experience that that they go through and
+
+98.83 101.64 B: and all the %ah the heads of state they are able to meet and {breath}
+
+101.74 104.09 B: almost what they are able get a get away with
+
+104.49 106.13 B: %um but yeah
+
+106.68 108.97 B: th- that fine line that they can not cross or %ah
+
+108.98 110.81 B: yeah i guess in in some cases
+
+111.53 113.04 B: with our present president
+
+113.06 115.13 B: and %um the line does get crossed but
+
+115.10 115.66 A: right.
+
+115.52 118.32 B: ((we would)) like to think that %ah they should not be crossing that line but {breath}
+
+118.46 120.19 B: %ah %eh you know if you were just
+
+120.70 123.80 B: the the power trip i guess is is more than anything else.
+
+124.18 125.90 A: so you would actually like to participate in them
+
+124.36 125.91 B: {lipsmack} yeah.
+
+125.91 128.07 A: what was the movie that one time where that civilian
+
+128.40 129.34 B: %oh yeah.
+
+128.62 130.29 A: guy looked like the president and
+
+129.67 131.78 B: %uh yeah. {breath} i i am not even sure but
+
+131.78 133.43 B: %ah yeah ex- exactly. {breath}
+
+133.29 134.32 A: %oh okay.
+
+133.44 135.50 B: %um some something like that. {breath}
+
+135.50 137.21 B: %um not not that i would ever
+
+137.21 139.08 B: could ever see myself as doing that, but just
+
+139.08 141.10 B: just the whole the whole experience would be
+
+141.46 142.66 B: would be pretty impressive.
+
+142.72 143.90 A: %oh that is pretty neat.
+
+144.00 144.74 B: yeah.
+
+144.98 145.81 B: %um
+
+145.04 146.55 A: alrighty {laugh}
+
+146.13 147.20 B: {laugh} 
+
+147.22 149.68 B: that {breath} yeah i actually %um how di-
+
+147.57 148.14 A: {breath}
+
+148.91 150.09 A: what are the odds of like
+
+150.09 152.16 A: them connecting (( )) {laugh}
+
+150.72 152.84 B: {laugh} exactly.
+
+152.39 153.75 A: {laugh}
+
+152.83 153.96 B: {breath} yeah i a %um
+
+154.00 156.46 B: i called in %ah i guess it was yesterday
+
+156.45 157.07 A: mhm.
+
+156.60 157.58 B: and %um
+
+158.42 158.96 B: [background] i was
+
+160.30 162.72 B: i i just did it on on a whim %um
+
+162.78 165.36 B: had had read about it and i thought you know why not why not participate
+
+165.80 167.63 B: and then %ah as i was %ah
+
+167.92 170.46 B: i i i actually was over in ^High ^Point
+
+171.01 173.71 B: and i i forwarded it to a few other people over at ^High ^Point
+
+173.89 174.39 A: right.
+
+174.20 175.81 B: and %ah they said well what is it all about?
+
+175.81 177.30 B: and i said i actually have no idea.
+
+177.42 179.28 B: %um this is this is the first call i have been on
+
+179.76 180.94 A: yeah it is mine as well.
+
+180.92 181.62 B: okay {breath}
+
+181.13 183.05 A: well it was funny because ^Stacy ^Wells did
+
+183.25 184.33 A: you have met her before right?
+
+184.07 185.05 B: yes i have yeah.
+
+184.70 187.19 A: she well she did it and she was like it is really easy she was like
+
+187.20 190.01 A: (( )) they just ask you a question you talk about it for five minutes and then you are done.
+
+190.02 191.76 B: right. {laugh} {breath}
+
+190.40 192.90 A: and i am like alright well i will just i am like alright i will try it.
+
+192.53 194.04 B: %uh if you can handle that.
+
+193.13 196.71 A: what do i have to lose? {breath} {laugh}
+
+194.42 198.37 B: yeah right. exactly. {breath} i figured yeah i would give it a go and then it was funny when i heard your voice.
+
+198.37 199.90 B: so i said alright i will i will try that.
+
+199.96 201.42 A: {laugh}
+
+200.41 201.13 B: %um.
+
+201.59 202.69 B: yeah i i called them
+
+202.69 203.81 B: yesterday i actually got i g-
+
+203.87 206.49 B: got the call from the switchboard yesterday but %um
+
+206.56 208.95 B: {breath} i was just about to pay a toll and i 
+
+208.95 210.43 B: said %eh this is not really a good time.
+
+210.42 212.74 B: {breath} i was about to buy tokens on the ^Parkway said %oh
+
+210.65 211.12 A: right.
+
+212.74 214.82 B: i think i will hold off until you know the following day
+
+215.05 215.60 A: right.
+
+215.59 216.73 B: %ah where are you calling 
+
+215.99 216.62 A: well i think they
+
+217.18 217.89 A: i am sorry, what?
+
+217.97 219.20 B: i was going to say where are you calling from
+
+219.31 221.48 A: %oh my apartment. i live in ^Lincoln Park.
+
+220.45 221.06 B: %oh okay.
+
+221.56 223.45 B: {breath} alright yeah i am actually %ah
+
+223.43 225.89 B: %ew a bunch of us went out %ah after work tonight.
+
+226.08 227.93 B: {breath} so i had just stopped to get gas and i 
+
+228.00 230.12 B: figured ((i i)) just pulled over when this when i 
+
+230.56 232.48 B: i was bas- %eh %ah i guess
+
+232.48 234.64 B: switchboard called so i just pulled over and i
+
+233.63 234.14 A: %oh.
+
+235.34 237.33 B: i thought alright that is good timing
+
+235.55 236.30 A: well that is good.
+
+236.70 239.10 A: do not be driving while on the phone. {laugh}
+
+238.42 239.26 B: right.
+
+239.14 240.35 A: {laugh}
+
+239.32 241.44 B: because i think ^George ^George has gotten a couple of tickets for that.
+
+241.59 243.71 B: {breath} {laugh} [distortion] 
+
+241.60 243.90 A: {laugh}
+
+244.09 246.32 A: {breath} all right well it was nice speaking to you.
+
+244.31 244.98 B: {breath} 
+
+246.08 247.67 B: and nice speaking to you too ^Amy.
+
+247.37 248.92 A: have a nice thanksgiving.
+
+248.35 250.26 B: %hee you too bye now. [distortion] 
+
+249.57 250.93 A: {breath} OK bye bye.
+

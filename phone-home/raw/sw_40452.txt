@@ -1,0 +1,288 @@
+# sw_40452.txt
+
+33.89 35.94 B: [distortion] [background] hello? i am sorry, ^Leah.
+
+34.99 35.39 A: yeah.
+
+36.09 36.68 A: that is okay.
+
+36.86 38.29 B: alright, what was the topic again?
+
+38.73 44.76 A: %uh, something about prisoners getting %uh, activities in jail and should our taxpayers
+
+44.92 46.64 A: %uh, should our tax money go towards that.
+
+47.28 48.69 B: %oh, should it go towards it.
+
+49.10 49.62 A: yeah.
+
+49.24 50.26 B: what do you think?
+
+51.50 53.95 A: %uh, i think it is a good program, uh-huh.
+
+54.59 57.10 A: because actually, in a few years, they will be out
+
+57.16 60.12 A: and they should %uh, have a life in prison that is {breath} 
+
+60.58 64.40 A: similar to what we would like them to do after they get out of prison, you know.
+
+64.80 66.44 A: should not just be locked up.
+
+65.06 68.54 B: yeah, i feel i f- i feel like they should do some things, with it.
+
+69.39 72.20 B: i guess it would just depend on what things that they were doing.
+
+72.72 73.30 A: mhm.
+
+73.08 73.58 B: you know.
+
+74.61 75.24 B: like, %uh
+
+74.65 76.98 A: not just making license plates, right?
+
+77.59 81.70 B: %nah. you know. %oh, this is like referring to just them taking up skills?
+
+82.05 84.78 A: {breath} that is wha- that is the impression i got, %um
+
+85.12 89.14 A: having class, i know one of my teachers %um, taught a class in prison. {breath} 
+
+89.96 90.36 A: so.
+
+90.92 94.99 A: i think it is a good, it gives them a good advantage when they get out, so they can get a better job.
+
+95.95 96.55 B: definite.
+
+96.92 99.91 B: cause i guess you can not just keep a person caged up all the time, and.
+
+100.62 102.31 B: do not let them take up any skills.
+
+102.67 103.31 A: yeah.
+
+103.39 103.76 B: yeah.
+
+104.21 105.33 B: think it is a good idea.
+
+106.97 108.05 B: so where do you live at?
+
+108.53 110.10 A: {breath} near ^Pottstown.
+
+110.76 112.59 B: ^Pottstown. i live in ^Maplewood.
+
+111.67 112.29 A: mhm.
+
+113.48 115.23 A: ^Maplewood. what county is that?
+
+115.76 116.54 B: it is ^Essex.
+
+118.83 119.31 A: ^Jersey?
+
+119.88 120.27 B: yeah.
+
+120.56 121.23 A: %oh, okay.
+
+122.48 126.14 A: %hm, whereabout? is it north ^Jersey? i am not familiar with ^Essex ^County.
+
+125.51 127.36 B: it is north, ^North ^Jersey.
+
+126.52 126.99 A: okay.
+
+128.29 129.30 A: do you work for ^Omnipoint? [distortion] 
+
+129.68 130.89 B: yeah. do you?
+
+131.18 132.66 A: {breath} no, my mother does.
+
+133.10 133.61 B: %oh, yeah?
+
+133.96 138.74 A: yes. but everyone i've talked to in this study has worked for ^Omnipoint, so, that is why i asked.
+
+139.60 142.03 B: %oh, alright. where is ^Pottstown at?
+
+142.73 145.36 A: %uh, near ^King ^of ^Prussia, the mall, ^Philadelphia.
+
+145.55 147.64 A: i am about forty five minutes outside of ^Philly.
+
+145.85 146.44 B: %oh, okay.
+
+149.57 151.35 B: %oh, do you like it around there?
+
+149.65 151.01 A: so. {breath} do you w-
+
+152.53 154.30 A: yeah, it is quiet, you know.
+
+155.60 156.32 A: (( ))
+
+157.24 160.99 A: {breath} you get used to going into the city, because there is really nothing to do out here.
+
+161.52 163.07 B: yeah. how old are you?
+
+163.73 164.46 A: twenty three.
+
+164.96 165.60 B: twenty three?
+
+165.88 166.52 A: mhm.
+
+166.93 167.83 B: yeah, i am twenty two.
+
+168.56 172.07 A: okay. {breath} do you work in the ^Omnipoint office or the %uh store?
+
+172.59 173.97 B: yeah, i work in the finance department.
+
+174.48 176.43 A: mhm. how long you been there?
+
+177.15 177.92 B: for two years.
+
+179.39 181.03 B: well, in ^January it will be two.
+
+181.49 181.88 A: mhm.
+
+182.62 184.55 B: it is a pretty nice job. does your mother like it?
+
+182.80 183.34 A: ((so you))
+
+185.19 186.69 A: yeah, she loves it.
+
+187.02 189.85 A: and i am so glad she works there, cause i got that family discount. [distortion] 
+
+189.98 191.04 B: yeah. {laugh} 
+
+190.82 195.21 A: [distortion] right. i saw my bill, my bill went from about fifty dollars a month to twenty something.
+
+195.69 196.12 B: yeah.
+
+197.23 199.38 A: you better not leave that job for awhile. {laugh} 
+
+199.49 200.24 B: {laugh} 
+
+200.74 201.90 A: it is kind of nice.
+
+203.88 205.47 A: is the %uh merger going to affect you?
+
+206.74 207.21 B: yeah.
+
+208.63 209.52 A: yeah.
+
+208.74 210.21 B: you said, is it gonna affect us?
+
+210.62 212.32 A: mhm. your group.
+
+211.49 211.91 B: yeah.
+
+212.49 214.83 B: yeah. what about your mother?
+
+215.91 217.62 A: well, she is a temp, right now,
+
+217.83 219.87 A: and, i have heard that
+
+217.97 218.23 B: yeah.
+
+220.51 224.20 A: the group she is in, because it is a new department of customer care or something
+
+224.52 224.96 B: yeah.
+
+224.77 225.97 A: they won't be affected.
+
+226.07 229.60 A: i mean, i guess it could affect where she, what office she reports to, but
+
+230.48 231.71 A: not really the program.
+
+233.06 233.64 A: so.
+
+233.88 235.72 A: {breath} actually
+
+234.35 239.74 B: yeah. i think it will {breath} it is gonna affect us. cause i am i am in the finance department.
+
+240.00 240.67 A: mhm.
+
+240.91 241.21 B: so.
+
+242.49 243.42 B: you know how that goes. 
+
+244.45 245.73 B: only time will tell though.
+
+246.48 246.99 A: yeah.
+
+247.29 248.21 B: i am not really worried.
+
+248.58 250.81 A: where i work we are going through a merger right now, too,
+
+250.86 253.59 A: so i already know i will be [distortion] {breath} out of a job
+
+252.63 253.33 B: {laugh} 
+
+253.60 255.63 A: cause i am not mov- they are moving to ^Bridgewater.
+
+255.82 256.36 B: %oh, yeah?
+
+256.48 259.14 A: and i am not going over there, it is too expensive.
+
+259.26 260.09 B: where do you work at?
+
+260.64 262.92 A: a pharmaceutical company, ^Rumple and ^Core.
+
+263.57 264.85 B: okay. do you like it?
+
+265.27 268.86 A: i love it. {breath} i am sad that they are %uh, moving.
+
+270.43 271.47 B: {lipsmack} (( ))
+
+270.99 271.85 A: so.
+
+272.37 273.32 B: ^Bridgewater, that is 
+
+273.99 275.45 B: it is a long ride for you, right?
+
+275.85 278.69 A: yeah, it is about two hours, i think.
+
+279.47 280.65 B: it is not worth it, %huh?
+
+281.91 285.83 A: no. it is too expensi- you know, it is too expensive, that area.
+
+286.16 290.35 A: {breath} the only good thing, is that if if you didn't like your job, once you get there
+
+290.43 294.19 A: they are moving in an area where a lot of other pharmaceutical companies are.
+
+290.68 291.09 B: yeah.
+
+294.21 297.39 A: so you just go to another one. {breath} but
+
+299.08 300.46 B: so, %um, how many, %um,
+
+301.18 302.67 B: how many sessions have you had?
+
+303.89 304.85 A: this is my fourth.
+
+305.15 305.78 B: your fourth?
+
+305.26 308.75 A: i have not gotten, yeah, outgoing call, i have not gotten any incoming yet.
+
+309.33 309.76 B: no.
+
+310.68 311.78 B: yeah, this is my first one.
+
+312.19 312.87 A: %oh, really?
+
+312.36 313.72 B: was incoming, yeah.
+
+314.01 314.42 A: okay. [distortion] 
+
+315.22 318.77 B: so i told them between nine and twelve o'clock. i did not really expect it tonight.
+
+319.32 319.76 A: mhm.
+
+320.30 321.04 B: ((yeah but))
+
+320.91 323.94 A: {breath} well, i only called so late because i was hoping i would get a call.
+
+324.54 325.07 B: %oh
+
+326.41 331.22 A: and they just cut the first, well, for me, my first check. they said i should get it by ^Friday.
+
+331.79 332.36 B: %oh, yeah.
+
+332.52 334.60 A: so, that was pretty good.
+
+333.75 336.89 B: that is good. so, how long ago was your first %uh, your first session?
+
+337.43 338.56 A: %hm, last week.
+
